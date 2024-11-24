@@ -1,0 +1,5 @@
+C:\Users\Мой ПК\Desktop\1f\Certification-for-the-first-quarter\obj\Debug\net8.0\Certification-for-the-first-quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мой ПК\Desktop\1f\Certification-for-the-first-quarter\obj\Debug\net8.0\Certification-for-the-first-quarter.AssemblyInfoInputs.cache
+C:\Users\Мой ПК\Desktop\1f\Certification-for-the-first-quarter\obj\Debug\net8.0\Certification-for-the-first-quarter.AssemblyInfo.cs
+C:\Users\Мой ПК\Desktop\1f\Certification-for-the-first-quarter\obj\Debug\net8.0\Certification-for-the-first-quarter.csproj.CoreCompileInputs.cache
+C:\Users\Мой ПК\Desktop\1f\Certification-for-the-first-quarter\obj\Debug\net8.0\Certification-for-the-first-quarter.sourcelink.json
